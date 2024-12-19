@@ -24,7 +24,7 @@ import (
 	"strings"
 
 	// 3rd Party
-	"github.com/Binject/go-donut/donut"
+	"github.com/piolug93/go-donut/donut"
 
 	// Mythic
 	structs "github.com/MythicMeta/MythicContainer/agent_structs"
