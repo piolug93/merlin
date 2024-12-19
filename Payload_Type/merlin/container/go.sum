@@ -1,6 +1,7 @@
 github.com/Binject/debug v0.0.0-20201228082058-60012895f187 h1:1X9jYT7Hq1fhPIv6a5br2viQOVaep0878Xsv4u4Vl+I=
 github.com/Binject/debug v0.0.0-20201228082058-60012895f187/go.mod h1:QzgxDLY/qdKlvnbnb65eqTedhvQPbaSP2NqIbcuKvsQ=
 github.com/piolug93/go-donut v0.0.0-20241219130243-de7ccd504ab4 h1:BAdOWPaPyTzpy2p9LGQoq9BeTdS84TaDdLAdmqDD00M=
+github.com/piolug93/go-donut v0.0.0-20241219130243-de7ccd504ab4/go.mod h1:41PxlgCrij3CLqG+jnPQZZB2BH2X1isFLkxxGW6tGxk=
 github.com/MythicMeta/MythicContainer v1.4.6 h1:d+fD/WuhpWAl+MbaXB/c+OUxxT26AWUjtpCwCAo/42o=
 github.com/MythicMeta/MythicContainer v1.4.6/go.mod h1:f9nIBe8teDUW+NP/jYw9Otor1RZHXpC/4cxMv88+KQE=
 github.com/Ne0nd0g/merlin-message v1.3.0 h1:HelXwN6Gtk80C2ted0+PAprq+zRiQRGLG6s6phyFY5o=
