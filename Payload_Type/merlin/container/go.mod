@@ -5,7 +5,7 @@ go 1.22.0
 toolchain go1.23.2
 
 require (
-	github.com/piolug93/go-donut latest
+	github.com/piolug93/go-donut v0.0.0-20241219130243-de7ccd504ab4
 	github.com/MythicMeta/MythicContainer v1.4.6
 	github.com/Ne0nd0g/merlin-message v1.3.0
 )
