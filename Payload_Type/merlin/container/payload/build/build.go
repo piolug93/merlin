@@ -268,7 +268,8 @@ func Build(msg structs.PayloadBuildMessage) (response structs.PayloadBuildRespon
 	}
 
 	// Golang LDFLAGS https://pkg.go.dev/cmd/link
-	ldflags := "-s -w"
+	//ldflags := "-s -w"
+	ldflags := "-linkmode internal"
 	ldflags += fmt.Sprintf(" -X \"main.payloadID=%s\"", msg.PayloadUUID)
 	ldflags += fmt.Sprintf(" -X \"main.profile=%s\"", msg.C2Profiles[0].Name)
 	ldflags += fmt.Sprintf(" -X \"main.httpClient=%s\"", httpClient)
